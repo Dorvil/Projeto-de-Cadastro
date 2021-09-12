@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 6px;
+}
+body {
+  background-image: url(https://d3su274k37x9zf.cloudfront.net/wp-content/uploads/2019/01/curi.jpeg);
+  background-position: initial;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+input {
+  display: block;
+  height: 40px;
+  width: 400px;
+  margin: 10px;
+  border-radius: 30px;
+  border: 1px solid black;
+  font-size: 12pt;
+  padding: 4px 10spx;
+  background-color: rgb(255, 255, 255, 0, 01);
+  outline: none;
+}
+div {
+  width: 420px;
+  margin: 150px auto 0px auto;
+}
+div h1 {
+  text-align: center;
+  padding: 20px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+}
+a:hover {
+  text-decoration: underline;
+}
+input[type='submit'] {
+  background-color: rgb(233, 16, 16);
+  border: none;
+  cursor: pointer;
+}
